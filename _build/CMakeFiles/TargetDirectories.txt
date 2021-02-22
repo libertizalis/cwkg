@@ -1,0 +1,7 @@
+/home/p0011/tempus/cwkg/_build/CMakeFiles/install/strip.dir
+/home/p0011/tempus/cwkg/_build/CMakeFiles/install.dir
+/home/p0011/tempus/cwkg/_build/CMakeFiles/list_install_components.dir
+/home/p0011/tempus/cwkg/_build/CMakeFiles/rebuild_cache.dir
+/home/p0011/tempus/cwkg/_build/CMakeFiles/edit_cache.dir
+/home/p0011/tempus/cwkg/_build/CMakeFiles/install/local.dir
+/home/p0011/tempus/cwkg/_build/CMakeFiles/cwkg.dir
